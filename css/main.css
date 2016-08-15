@@ -1,0 +1,93 @@
+
+.hidethis{
+    display:none !important;  
+}
+.redtext{
+    color: red;
+    text-align:left !important;
+}
+.redborder{
+    border: solid red 3px !important;
+}
+.greenborder{
+    border: solid green 3px !important;
+}
+
+
+a.btn.btn-primary {
+    background-color: orangered;
+    border-color: orangered;
+}
+
+a.btn.btn-default {
+    background-color: orangered;
+    border-color: orangered;
+    color: floralwhite;
+    opacity: 10%;
+}
+div.jumbotron h1 {
+    color: floralwhite;
+    text-shadow: 2px 3px #888888;
+}
+fieldset#prepareBilling, #creditCardInfo {
+	display: none;
+	padding-left:20px;
+}
+fieldset#buildPizza {
+	display: none;
+}
+/*h3 #thankyou {
+	font-size: 18pt;
+}*/
+#imageSet {
+	display: block;
+}
+label span, input + p, select + p {
+	color: saddlebrown;
+}
+.container1 {
+	background-color: azure;
+    color: green;
+    font-weight:  bold;
+}
+
+.container2 {
+	background-color: blanchedalmond;
+}
+
+.container3 {
+	background-color: whitesmoke;
+    color: brown;
+    font-weight:  bold;
+}
+.container4 {
+	background-color: yellow;
+    color: blueviolet;
+    font-weight:  bold;
+}
+.container5 {
+	background-color: whitesmoke;
+    color: red;
+    font-weight:  bold;
+}
+.container label span, input + p, select + p {
+	color: green;
+    }
+.container h2 {
+	padding-top: 24px;
+   
+}
+.container h4 {
+	padding-top: 10pxopacity: 
+	font-weight: 500;
+}
+.foodItems {
+	padding: 20px;
+	/*margin-right: 50px;*/
+}
+.jumbotron {
+    background-image: url(../images/pizza.jpe);
+    opacity: 20%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+} 
