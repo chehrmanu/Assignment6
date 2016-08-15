@@ -1,1 +1,3 @@
-# assignment6
+Assignment 6
+
+&copyopyright 2016 ©Manu R®
